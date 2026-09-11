@@ -8,6 +8,19 @@ The project is based on the simple **"Hello World"** and font examples from the 
 
 The clock does **not require an Internet connection or NTP time synchronization** while running.
 
+## Video
+
+See the clock in action:
+
+[![LED Matrix Clock](https://img.youtube.com/vi/V2KkgDdk9uc/maxresdefault.jpg)](https://www.youtube.com/watch?v=V2KkgDdk9uc)
+
+The video demonstrates both versions of the clock:
+
+* [WIFI-Based LED Matrix Clock](https://github.com/MarttiLokka/WIFI-Based-LED-Matrix-Clock)
+* [RTC-Based LED Matrix Clock](https://github.com/MarttiLokka/RTC-Based-LED-Matrix-Clock)
+
+Both versions use the same font and display configuration. The main difference is the hardware and how the clock obtains the time.
+
 ## Features
 
 * Offline clock based on a **DS3231 RTC**
