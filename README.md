@@ -1,5 +1,7 @@
 # RTC-Based LED Matrix Clock
 
+![Clock](clock.jpg)
+
 A simple offline clock for an LED matrix display using a **DS3231 RTC** and the **MD_Parola** display library.
 
 The project is based on the simple **"Hello World"** and font examples from the MajicDesigns libraries. Instead of displaying a fixed `"Hello"` message, the clock reads the current time from the DS3231 real-time clock and displays it on the LED matrix.
