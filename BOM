@@ -1,0 +1,5 @@
+Parts list
+1, MAX7219 4-in-1 32×8 LED Matrix Display
+2, UNO, Pro Mini, Pro micro, ESP32, etc.. board
+3, DS3231 RTC board. Beware of cheap boards with their problems. Mostly defective IC not keeping time, empty batttery losing time.
+3, Some wire to connect them. Beware of loose wires and bad connections.
